@@ -11,3 +11,12 @@
 ul {
   list-style: none;
 }
+
+.userDiv{
+  margin-bottom: 20px;
+  margin-left: 30px;
+  margin-right: 30px;
+  background-color: rgb(240, 240, 240);
+  border-radius: 10px;
+  padding: 10px;
+}
